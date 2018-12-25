@@ -1,1 +1,1 @@
-module github.com/grian/testmod
+module github.com/grian/testmod/v2
